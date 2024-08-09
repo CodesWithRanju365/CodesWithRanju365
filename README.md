@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeswithranju365&label=Profile%20views&color=0e75b6&style=flat" alt="codeswithranju365" /> </p>
 
-<img align="right" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=41h5kieC&id=FB8D41B48E7ECA2014F806490AA9443C8D4F17B7&thid=OIP.41h5kieCbPqHsDjCu4Q4HgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1063314%2fscreenshots%2f3020974%2ftdsocial_dribbble.gif&exph=600&expw=800&q=girl+coding+in+desktop+gif&simid=608018008170184582&FORM=IRPRST&ck=89D2C9B4BD12D0A2271142140E07633C&selectedIndex=10&itb=0">
+<img align="right" width="400" src="https://www.bing.com/ck/a?!&&p=c06b60cefd95773cJmltdHM9MTcyMzA3NTIwMCZpZ3VpZD0zMGVhOGZhMS0zOTczLTZiOWItMjAzMy05YjcwMzhjMTZhZTUmaW5zaWQ9NTU1Ng&ptn=3&ver=2&hsh=3&fclid=30ea8fa1-3973-6b9b-2033-9b7038c16ae5&u=a1L2ltYWdlcy9zZWFyY2g_cT1naXJsJTIwY29kaW5nJTIwaW4lMjBkZXNrdG9wJTIwY2FydG9vbiZGT1JNPUlRRlJCQSZpZD0xNERGOTQ1RUE2MjdCNTZBRDQwMUQ2RUZBNzhDNzJFOUZBRUY5MzlD&ntb=1">
 
 - 🔭 I’m currently working on **API Testing**
 
