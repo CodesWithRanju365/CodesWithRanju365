@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjitha</h1>
-<h3 align="left">Hi there! I'm a passionate software tester who loves hunting down bugs and making sure everything works just right. Whether it's manual testing or automating the process, I'm always up for the challenge. With a keen eye for detail and a curiosity that never quits, I’m on a mission to make the digital world a better, bug-free. You can find me exploring the latest in tech, jamming to my favorite tunes, or dreaming up ways to make testing even more fun.</h3>
+<h3 align="left">Hey! I'm a passionate software tester who loves hunting down bugs. Whether it's manual testing or automating the process, I'm always up for the challenge. With a keen eye for detail and a curiosity that never quits, I’m on a mission to make the digital world a better, bug-free. You can find me exploring the latest in tech, jamming to my favorite tunes, or dreaming up ways to make testing even more fun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeswithranju365&label=Profile%20views&color=0e75b6&style=flat" alt="codeswithranju365" /> </p>
 
