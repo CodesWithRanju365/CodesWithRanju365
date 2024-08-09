@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranjitha</h1>
 <h3 align="left">Hey! I'm a passionate software tester who loves hunting down bugs. Whether it's manual testing or automating the process, I'm always up for the challenge. With a keen eye for detail and a curiosity that never quits, I’m on a mission to make the digital world a better, bug-free. You can find me exploring the latest in tech, jamming to my favorite tunes, or dreaming up ways to make testing even more fun.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeswithranju365&label=Profile%20views&color=0e75b6&style=flat" alt="codeswithranju365" /> </p>
+<p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=sGIbIkQ8&id=C6BAF5C1964E755D0A2803EEFB2E085165EEEFC5&thid=OIP.sGIbIkQ8rkmY99fzheO2IQHaLH&mediaurl=https%3a%2f%2fimage.lexica.art%2fmd2%2f38d323ce-e7d2-4b02-8387-36e54636421c&exph=1536&expw=1024&q=girl+coding+in+desktop+Cartoon+dARK+theme&simid=608016298749882570&FORM=IRPRST&ck=ABB989E7F85033A9CE73CB626E369901&selectedIndex=2&itb=0" alt="codeswithranju365" /> </p>
 
-<img align="right" width="400" src="https://www.bing.com/ck/a?!&&p=c06b60cefd95773cJmltdHM9MTcyMzA3NTIwMCZpZ3VpZD0zMGVhOGZhMS0zOTczLTZiOWItMjAzMy05YjcwMzhjMTZhZTUmaW5zaWQ9NTU1Ng&ptn=3&ver=2&hsh=3&fclid=30ea8fa1-3973-6b9b-2033-9b7038c16ae5&u=a1L2ltYWdlcy9zZWFyY2g_cT1naXJsJTIwY29kaW5nJTIwaW4lMjBkZXNrdG9wJTIwY2FydG9vbiZGT1JNPUlRRlJCQSZpZD0xNERGOTQ1RUE2MjdCNTZBRDQwMUQ2RUZBNzhDNzJFOUZBRUY5MzlD&ntb=1">
+<img align="right" width="200" src="https://www.bing.com/ck/a?!&&p=c06b60cefd95773cJmltdHM9MTcyMzA3NTIwMCZpZ3VpZD0zMGVhOGZhMS0zOTczLTZiOWItMjAzMy05YjcwMzhjMTZhZTUmaW5zaWQ9NTU1Ng&ptn=3&ver=2&hsh=3&fclid=30ea8fa1-3973-6b9b-2033-9b7038c16ae5&u=a1L2ltYWdlcy9zZWFyY2g_cT1naXJsJTIwY29kaW5nJTIwaW4lMjBkZXNrdG9wJTIwY2FydG9vbiZGT1JNPUlRRlJCQSZpZD0xNERGOTQ1RUE2MjdCNTZBRDQwMUQ2RUZBNzhDNzJFOUZBRUY5MzlD&ntb=1">
 
 - 🔭 I’m currently working on **API Testing**
 
